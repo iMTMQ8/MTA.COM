@@ -100,3 +100,5 @@ mta_com/
 * Regular commits with clear messages
 * Comprehensive documentation in README.md
 * Inline code documentation for maintainability
+
+<!-- CI trigger -->
